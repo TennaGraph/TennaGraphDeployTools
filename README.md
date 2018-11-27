@@ -1,6 +1,6 @@
 # Builder helper
 
-Deployer is automated build tool for TennaGraph.
+DeployTools is automated build tool for TennaGraph.
 
 The workflow is following:
 
